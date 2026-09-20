@@ -4,7 +4,8 @@ const Hero = () => {
     return (
         <>
             <section className="min-h-screen bg-cover bg-center bg-no-repeat flex items-center justify-center px-6"
-                style={{ backgroundImage: "url('/src/assets/images/cloud.png')" }}>
+                 style={{ backgroundImage: `url(${cloud})` }}>
+
 
                 <div className="text-center text-white max-w-3xl">
 
