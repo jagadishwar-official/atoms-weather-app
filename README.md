@@ -1,16 +1,35 @@
-# React + Vite
+# 🌤️ Atoms Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive weather application built with React, Tailwind CSS, and OpenWeatherMap API.
 
-Currently, two official plugins are available:
+## 🚀 Links
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 🌐 **Live Demo:** [Atoms Weather App](https://atoms-weather-app.vercel.app/)
+- 💻 **GitHub Repository:** [Atoms Weather App](https://github.com/jagadishwar-official/atoms-weather-app)
+- 👤 **GitHub Profile:** [Jagadishwar](https://github.com/jagadishwar-official)
 
-## React Compiler
+## 🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- JavaScript
+- Tailwind CSS
+- Axios
+- OpenWeatherMap API
+- Vite
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Search weather by city
+- Displays current temperature
+- Displays weather condition
+- Displays weather description
+- Responsive design
+- Mobile navigation
+- Celsius temperature display
+- Error handling for invalid cities and API errors
+
+## 📂 Project Setup
+
+```bash
+npm install
+npm run dev
