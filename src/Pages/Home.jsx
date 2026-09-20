@@ -1,6 +1,6 @@
 import Navbar from "../Components/Navbar"
 import Hero from "../Components/Hero"
-import Weather from "../Components/weather"
+import Weather from "../Components/Weather"
 import About from "../Components/About"
 
 function Home(){
